@@ -1,0 +1,22 @@
+[
+    {
+        "iconUrl": "https://www.hdfilmcehennemi.nl/favicon.ico",
+        "fileHash": "sha256-9e84f905dbb7fbcee85357880e3a6c36495a62e0823751ec01540f9fd2435faa",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hero4201ee/filmci4201665",
+        "fileSize": 8590,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Filmci"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "FilmciProvider",
+        "description": "HdFilmCehennemi eklentisi",
+        "url": "https://raw.githubusercontent.com/hero4201ee/filmci4201665/builds/FilmciProvider.cs3",
+        "name": "FilmciProvider"
+    }
+]
